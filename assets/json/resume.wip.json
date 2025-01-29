@@ -1,12 +1,12 @@
 {
   "basics": {
-    "name": "Albert Einstein",
-    "label": "Scientist",
+    "name": "Knut Hagane-Lunden",
+    "label": "Human",
     "image": "",
-    "email": "albert@einstein.de",
-    "phone": "(912) 123-4567",
-    "url": "https://alshedivat.github.io/al-folio/",
-    "summary": "A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time",
+    "email": "knutlunden@keemail.me",
+    "phone": "",
+    "url": "https://dotme.site/",
+    "summary": "Born in Norway ",
     "location": {
       "address": "2712 Broadway St",
       "postalCode": "CA 94115",
@@ -16,9 +16,9 @@
     },
     "profiles": [
       {
-        "network": "Twitter",
-        "username": "AlbertEinstein",
-        "url": "https://twitter.com/AlbertEinstein"
+        "network": "Mastodon",
+        "username": "dotKnewt",
+        "url": "https://infosec.exchange/@dodgybadger"
       }
     ]
   },
