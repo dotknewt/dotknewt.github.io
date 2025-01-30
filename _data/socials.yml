@@ -11,7 +11,7 @@
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 github_username: dotknewt # your GitHub user name
-gitlab_username: dotknewt # your GitLab user name
+gitlab_username: shellcorp # your GitLab user name
 # ieee_id: # your ieeexplore.ieee.org/author/id
 #inspirehep_id: 1010907 # Inspire HEP author ID
 # instagram_id: # your instagram id
@@ -45,7 +45,7 @@ rss_icon: true # set to true to show the RSS icon
 # x_username: # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
-#custom_social: # can be any name here other than the ones already defined above
-#  logo: https://www.alberteinstein.com/wp-content/uploads/2024/03/cropped-favicon-192x192.png # can be png, svg, jpg
-#  title: Custom Social
-#  url: https://www.alberteinstein.com/
+custom_social: # can be any name here other than the ones already defined above
+  logo: https://assets.thestorygraph.com/assets/logo-no-text-dark-mode-89b2eccfe91d6f1f6d8bd3aaaa24fbd70ec45c7500804a351c7801459cf2d506.png # can be png, svg, jpg
+  title: The StoryGraph
+  url: https://app.thestorygraph.com/profile/dotknewt
