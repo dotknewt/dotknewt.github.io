@@ -7,9 +7,9 @@ first_name: Knut
 #middle_name: R.
 #last_name: Hagane-Lunden
 contact_note: >
-  Reach out to me on <a rel="me" href="https://infosec.exchange/@dodgybadger">Mastodon</a>!
-description: > # the ">" symbol means to ignore newlines until "footer_text:"
-  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
+  Reach out to me on <a rel="me" href="https://infosec.exchange/@dodgybadger">Mastodon</a>
+#description: > # the ">" symbol means to ignore newlines until "footer_text:"
+#  A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.
 footer_text: >
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
