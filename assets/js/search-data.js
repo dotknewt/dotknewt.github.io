@@ -71,7 +71,7 @@ ninja.data = [{
         title: 'GitLab',
         section: 'Socials',
         handler: () => {
-          window.open("https://gitlab.com/shellcorp", "_blank");
+          window.open("https://gitlab.com/dotknewt", "_blank");
         },
       },{
         id: 'social-mastodon',
