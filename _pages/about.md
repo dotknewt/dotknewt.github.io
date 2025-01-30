@@ -23,11 +23,11 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-A dad in my thirties who has been working in IT since 2019, most of those as a operational security analyst or adjacent.
+A dad in his thirties who has been working in IT since 2019, most of those as a operational security analyst or adjacent.
 
 I want this website to be a place for me to practice sharing thoughts, activities, ramblings, projects, guides, and other stuff I like.
 
-Sharing for myself, but if someone finds any of it not utterly useless, I'll count it as a win!
+Sharing for myself, but if someone finds any of it not utterly useless, I'll count that as a win!
 
 Things I enjoy (but don't do nearly enough of):
 
