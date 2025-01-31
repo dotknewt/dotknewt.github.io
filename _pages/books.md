@@ -7,7 +7,7 @@ nav: true
 nav_order: 2
 ---
 
-<!-- _pages/papers.md -->
+<!-- _pages/books.md -->
 
 <!-- Bibsearch Feature -->
 
