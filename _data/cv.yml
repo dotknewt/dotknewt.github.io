@@ -1,0 +1,63 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Knut Hagane-Lunden
+    - name: Languages
+      value: English, Norwegian
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Technical Network and IT-Security
+      institution: Noroff, Norway
+      year: 2019
+      description:
+        - Systems Administration.
+        - Security.
+
+- title: Experience
+  type: time_table
+  contents:
+    - title: Senior Analyst
+      institution: Norwegian Tax Administration
+      year: 2024-present
+
+    - title: Senior Analyst
+      institution: Advania CDC, Oslo, Norway
+      year: 2021-2024
+      description:
+        - Jr. SOC Analyst.
+        - SOC Team Lead.
+        - Senior SOC Analyst.
+
+    - title: Jr. Systems Administrator
+      institution: Advania, Oslo, Norway.
+      year: 2019-2020
+      description:
+        - macOS.
+        - iOS.
+
+- title: Personal Projects
+  type: time_table
+  contents: 
+    - title: Proxmox VE.
+      description:
+        - Self-hosting cloud storage.
+        - VPN connection for secure remote access.
+        - Patch-automation with ansible.
+    - title: Networking.
+      description:
+        - Network segmentation with VLANs.
+        - Firewall configuration.
+        - PfSense / OpnSense.
+        - Switching and Routing.
+    - title: Ludus.
+      description:
+        - Template building.
+        - Ansible role creation for VM-customization.
+    - title: Linux Administration.
+      description:
+        - Customization.
+        - Service hosting.
+        - Storage Administration.
