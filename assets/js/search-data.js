@@ -51,7 +51,18 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "news-dotme-site-deployed",
+            },{id: "post-adulting",
+      
+        title: "adulting",
+      
+      description: "february 1st, carwash scratched up our car and I think I&#39;m getting old..?",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/adulting/";
+        
+      },
+    },{id: "news-dotme-site-deployed",
           title: 'dotme.site deployed 🥳',
           description: "",
           section: "News",},{id: "projects-introducing-ludus",
