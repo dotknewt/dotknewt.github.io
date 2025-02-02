@@ -40,7 +40,7 @@
 
 - title: Personal Projects
   type: time_table
-  contents: 
+  contents:
     - title: Proxmox VE.
       description:
         - Self-hosting cloud storage.
