@@ -65,8 +65,8 @@ ninja.data = [{
     },{id: "news-dotme-site-deployed",
           title: 'dotme.site deployed 🥳',
           description: "",
-          section: "News",},{id: "projects-introducing-ludus",
-          title: 'Introducing Ludus',
+          section: "News",},{id: "projects-ludus",
+          title: 'Ludus',
           description: "The easiest way to deploy dev/test infrastructure",
           section: "Projects",handler: () => {
               window.location.href = "/projects/ludus/";
