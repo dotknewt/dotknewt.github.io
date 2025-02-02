@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Introducing Ludus
+title: Ludus
 description: The easiest way to deploy dev/test infrastructure
 img: assets/img/ludus-icon.svg
 importance: 1
@@ -35,6 +35,15 @@ The packer file is where we define things like disk size, source ISO (and where 
 Packer can then use powershell, bash or even [Ansible](https://www.ansible.com/) as a provisioner to perform post-installation tasks, like regenerating host keys, installing drivers or disabling hibernation.
 
 This makes it super easy to recreate picture perfect copies of machines. A clean VM is never far off, and as long as you hold on to your template, you can destroy and rebuild the VM template -- you can deploy an identical VM to the one you destroyed. What used to take hours of active, hands-on configuration can be accomplished in just a few seconds with ludus. Though building the template may take some time, it's all :sparkles: automated :sparkles:
+
+### The Roles Role
+
+Ludus roles are collections of ansible tasks that can be assigned to hosts in a way that allows us to configure specifics for each host, like setting the keyboard layout.
+Roles gives a lot of room for custom deployments and are relatively easy to get started with. Just copy an existing role (I'll get to this in a later post) and modify as you want.
+
+Recent'ish ludus versions also support setting global variables, making it eaven easier to deploy, lets say a SIEM to your ludus range!
+
+TBC ...
 
 # Check back for updates on
 
