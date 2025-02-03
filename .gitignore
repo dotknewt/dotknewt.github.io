@@ -13,3 +13,4 @@ vendor
 .idea
 *.code-workspace
 .vsvode/
+.obsidian/
