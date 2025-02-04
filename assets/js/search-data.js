@@ -37,7 +37,14 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/repositories/";
           },
-        },{id: "dropdown-projects",
+        },{id: "dropdown-news",
+              title: "news",
+              description: "",
+              section: "Dropdown",
+              handler: () => {
+                window.location.href = "";
+              },
+            },{id: "dropdown-projects",
               title: "projects",
               description: "",
               section: "Dropdown",
@@ -62,10 +69,17 @@ ninja.data = [{
           window.location.href = "/blog/2025/adulting/";
         
       },
-    },{id: "news-dotme-site-deployed",
-          title: 'dotme.site deployed 🥳',
+    },{id: "news-hello-world",
+          title: 'hello world',
           description: "",
-          section: "News",},{id: "projects-ludus",
+          section: "News",handler: () => {
+              window.location.href = "/news/hello-world/";
+            },},{id: "news-malspam-analysis-workshop",
+          title: 'malspam analysis workshop',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/malspam-analysis-workshop/";
+            },},{id: "projects-ludus",
           title: 'Ludus',
           description: "The easiest way to deploy dev/test infrastructure",
           section: "Projects",handler: () => {
