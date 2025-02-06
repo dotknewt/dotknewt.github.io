@@ -69,12 +69,10 @@ ninja.data = [{
           window.location.href = "/blog/2025/adulting/";
         
       },
-    },{id: "news-hello-world",
-          title: 'hello world',
+    },{id: "news-wave-hello-earth-africa",
+          title: ':wave: hello :earth_africa:',
           description: "",
-          section: "News",handler: () => {
-              window.location.href = "/news/hello-world/";
-            },},{id: "news-malspam-analysis-workshop",
+          section: "News",},{id: "news-malspam-analysis-workshop",
           title: 'malspam analysis workshop',
           description: "",
           section: "News",handler: () => {
