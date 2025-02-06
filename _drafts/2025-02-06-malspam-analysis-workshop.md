@@ -8,6 +8,7 @@ categories: work
 ---
 
 Download the archive from here: https://github.com/helsecert/workshop_malspam/archive/refs/heads/main.zip and extract the files on your remnux VM
+- Most tools are preinstalled on remnux, the rest are `apt install`-able
 
-> Most tools are preinstalled on remnux, the rest are `apt install`-able
-
+> All stage1 archives have the password "infected"
+>> All "decoy.7z" files have the password of the URI used to download the decoy file 
