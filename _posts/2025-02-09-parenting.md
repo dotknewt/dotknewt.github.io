@@ -1,6 +1,6 @@
 ---
 layout: post
-title: adulting
+title: parenting
 date: 2025-02-09 17:00:00-0000
 description: the rollercoaster
 tags:
