@@ -62,6 +62,17 @@ ninja.data = [{
       
         title: "adulting",
       
+      description: "the rollercoaster",
+      section: "Posts",
+      handler: () => {
+        
+          window.location.href = "/blog/2025/parenting/";
+        
+      },
+    },{id: "post-adulting",
+      
+        title: "adulting",
+      
       description: "february 1st, carwash scratched up our car and I think I&#39;m getting old..?",
       section: "Posts",
       handler: () => {
@@ -77,7 +88,10 @@ ninja.data = [{
           description: "",
           section: "News",handler: () => {
               window.location.href = "/news/malspam-analysis-workshop/";
-            },},{id: "projects-ludus",
+            },},{id: "news-going-to-hackcon-20",
+          title: 'Going to HackCon #20',
+          description: "",
+          section: "News",},{id: "projects-ludus",
           title: 'Ludus',
           description: "The easiest way to deploy dev/test infrastructure",
           section: "Projects",handler: () => {
