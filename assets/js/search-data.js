@@ -58,9 +58,9 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-adulting",
+            },{id: "post-parenting",
       
-        title: "adulting",
+        title: "parenting",
       
       description: "the rollercoaster",
       section: "Posts",
