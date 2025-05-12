@@ -1,6 +1,6 @@
 ---
 layout: post
-date: 2025-05-012 070:00:00-0000
+date: 2025-05-12 070:00:00-0000
 title: Wish me luck
 inline: false
 related_posts: false
