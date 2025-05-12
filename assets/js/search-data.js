@@ -91,7 +91,12 @@ ninja.data = [{
             },},{id: "news-going-to-hackcon-20",
           title: 'Going to HackCon #20',
           description: "",
-          section: "News",},{id: "projects-ludus",
+          section: "News",},{id: "news-wish-me-luck",
+          title: 'Wish me luck',
+          description: "",
+          section: "News",handler: () => {
+              window.location.href = "/news/drivers-license/";
+            },},{id: "projects-ludus",
           title: 'Ludus',
           description: "The easiest way to deploy dev/test infrastructure",
           section: "Projects",handler: () => {
